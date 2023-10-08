@@ -1,4 +1,4 @@
-﻿namespace Dotnet6_DesignPattern.FactoryMethod.Discount
+﻿namespace Dotnet6_DesignPattern.FactoryMethod.SalesDiscount
 {
     /// <summary>
     /// Product
